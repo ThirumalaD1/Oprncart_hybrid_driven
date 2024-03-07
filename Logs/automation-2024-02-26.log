@@ -1,0 +1,57 @@
+21:41:11.786 [TestNG-tests-2] INFO  testcases.TC_001_Verifyaccountregistration - Entering user details for registering user
+21:41:11.801 [TestNG-tests-1] INFO  testcases.TC_001_Verifyaccountregistration - Clicked register option
+21:41:11.801 [TestNG-tests-1] INFO  testcases.TC_001_Verifyaccountregistration - Entering user details for registering user
+21:41:12.431 [TestNG-tests-1] INFO  testcases.TC_001_Verifyaccountregistration - clicked on yes
+21:41:12.503 [TestNG-tests-1] INFO  testcases.TC_001_Verifyaccountregistration - clicked on agree
+21:41:12.561 [TestNG-tests-2] INFO  testcases.TC_001_Verifyaccountregistration - clicked on yes
+21:41:12.614 [TestNG-tests-2] INFO  testcases.TC_001_Verifyaccountregistration - clicked on agree
+21:41:20.644 [TestNG-tests-2] INFO  testcases.TC_001_Verifyaccountregistration - clicked on continue button
+21:41:20.688 [TestNG-tests-2] INFO  testcases.TC_001_Verifyaccountregistration - Logs recording ended
+21:41:20.688 [TestNG-tests-2] INFO  testcases.TC_001_Verifyaccountregistration - TC_001_Verifyaccountregistration completed
+21:41:20.788 [TestNG-tests-1] INFO  testcases.TC_001_Verifyaccountregistration - clicked on continue button
+21:41:20.859 [TestNG-tests-1] INFO  testcases.TC_001_Verifyaccountregistration - Logs recording ended
+21:41:20.859 [TestNG-tests-1] INFO  testcases.TC_001_Verifyaccountregistration - TC_001_Verifyaccountregistration completed
+22:11:44.420 [main] INFO  testcases.TC_001_Verifyaccountregistration - TC_001_Verifyaccountregistration started
+22:11:44.423 [main] DEBUG testcases.TC_001_Verifyaccountregistration - Debug logs started
+22:11:44.506 [main] INFO  testcases.TC_001_Verifyaccountregistration - Clicked My account option
+22:11:45.196 [main] INFO  testcases.TC_001_Verifyaccountregistration - Clicked register option
+22:11:45.196 [main] INFO  testcases.TC_001_Verifyaccountregistration - Entering user details for registering user
+22:11:46.000 [main] INFO  testcases.TC_001_Verifyaccountregistration - clicked on yes
+22:11:46.068 [main] INFO  testcases.TC_001_Verifyaccountregistration - clicked on agree
+22:11:53.799 [main] INFO  testcases.TC_001_Verifyaccountregistration - clicked on continue button
+22:11:53.846 [main] INFO  testcases.TC_001_Verifyaccountregistration - Logs recording ended
+22:11:53.846 [main] INFO  testcases.TC_001_Verifyaccountregistration - TC_001_Verifyaccountregistration completed
+22:43:26.784 [main] INFO  testcases.TC_002_Verifylogin - TC_002_Verifylogin is started
+22:43:26.787 [main] DEBUG testcases.TC_002_Verifylogin - debug logs started
+22:43:27.874 [main] INFO  testcases.TC_002_Verifylogin - Entered email
+22:43:28.063 [main] INFO  testcases.TC_002_Verifylogin - password entered
+22:43:28.959 [main] INFO  testcases.TC_002_Verifylogin - Clicked login
+22:47:14.275 [main] INFO  testcases.TC_002_Verifylogin - TC_002_Verifylogin is started
+22:47:14.280 [main] DEBUG testcases.TC_002_Verifylogin - debug logs started
+22:47:15.190 [main] INFO  testcases.TC_002_Verifylogin - Entered email
+22:47:15.304 [main] INFO  testcases.TC_002_Verifylogin - password entered
+22:47:15.814 [main] INFO  testcases.TC_002_Verifylogin - Clicked login
+23:01:20.704 [main] INFO  testcases.TC_002_Verifylogin - TC_002_Verifylogin is started
+23:01:20.710 [main] DEBUG testcases.TC_002_Verifylogin - debug logs started
+23:01:21.992 [main] INFO  testcases.TC_002_Verifylogin - Entered email
+23:01:22.172 [main] INFO  testcases.TC_002_Verifylogin - password entered
+23:01:22.910 [main] INFO  testcases.TC_002_Verifylogin - Clicked login
+23:03:28.749 [main] INFO  testcases.TC_002_Verifylogin - TC_002_Verifylogin is started
+23:03:28.752 [main] DEBUG testcases.TC_002_Verifylogin - debug logs started
+23:03:29.532 [main] INFO  testcases.TC_002_Verifylogin - Entered email
+23:03:29.630 [main] INFO  testcases.TC_002_Verifylogin - password entered
+23:03:30.275 [main] INFO  testcases.TC_002_Verifylogin - Clicked login
+23:03:30.314 [main] INFO  testcases.TC_002_Verifylogin - Login passed
+23:05:16.430 [main] INFO  testcases.TC_002_Verifylogin - TC_002_Verifylogin is started
+23:05:16.433 [main] DEBUG testcases.TC_002_Verifylogin - debug logs started
+23:05:17.332 [main] INFO  testcases.TC_002_Verifylogin - Entered email
+23:05:17.433 [main] INFO  testcases.TC_002_Verifylogin - password entered
+23:05:18.080 [main] INFO  testcases.TC_002_Verifylogin - Clicked login
+23:05:18.126 [main] INFO  testcases.TC_002_Verifylogin - Login passed
+23:07:31.515 [main] INFO  testcases.TC_002_Verifylogin - TC_002_Verifylogin is started
+23:07:31.518 [main] DEBUG testcases.TC_002_Verifylogin - debug logs started
+23:07:32.351 [main] INFO  testcases.TC_002_Verifylogin - Entered email
+23:07:32.445 [main] INFO  testcases.TC_002_Verifylogin - password entered
+23:07:33.005 [main] INFO  testcases.TC_002_Verifylogin - Clicked login
+23:11:13.398 [main] INFO  testcases.TC_001_Verifyaccountregistration - TC_001_Verifyaccountregistration started
+23:11:13.403 [main] DEBUG testcases.TC_001_Verifyaccountregistration - Debug logs started

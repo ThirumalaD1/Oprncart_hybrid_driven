@@ -1,0 +1,50 @@
+21:04:11.170 [main] INFO  testcases.TC_001_Verifyaccountregistration - clicked on yes
+21:04:11.217 [main] INFO  testcases.TC_001_Verifyaccountregistration - clicked on agree
+21:04:19.039 [main] INFO  testcases.TC_001_Verifyaccountregistration - clicked on continue button
+21:05:35.390 [main] INFO  testcases.TC_001_Verifyaccountregistration - TC_001_Verifyaccountregistration started
+21:05:35.393 [main] DEBUG testcases.TC_001_Verifyaccountregistration - Debug logs started
+21:05:35.490 [main] INFO  testcases.TC_001_Verifyaccountregistration - Clicked My account option
+21:05:36.248 [main] INFO  testcases.TC_001_Verifyaccountregistration - Clicked register option
+21:05:36.248 [main] INFO  testcases.TC_001_Verifyaccountregistration - Entering user details for registering user
+21:05:36.812 [main] INFO  testcases.TC_001_Verifyaccountregistration - clicked on yes
+21:05:36.857 [main] INFO  testcases.TC_001_Verifyaccountregistration - clicked on agree
+21:05:44.668 [main] INFO  testcases.TC_001_Verifyaccountregistration - clicked on continue button
+21:05:44.708 [main] INFO  testcases.TC_001_Verifyaccountregistration - Logs recording ended
+21:05:44.708 [main] INFO  testcases.TC_001_Verifyaccountregistration - TC_001_Verifyaccountregistration completed
+21:24:14.002 [main] INFO  testcases.TC_001_Verifyaccountregistration - TC_001_Verifyaccountregistration started
+21:24:14.004 [main] DEBUG testcases.TC_001_Verifyaccountregistration - Debug logs started
+21:24:14.239 [main] INFO  testcases.TC_001_Verifyaccountregistration - Clicked My account option
+21:24:14.980 [main] INFO  testcases.TC_001_Verifyaccountregistration - Clicked register option
+21:24:14.980 [main] INFO  testcases.TC_001_Verifyaccountregistration - Entering user details for registering user
+21:24:15.493 [main] INFO  testcases.TC_001_Verifyaccountregistration - clicked on yes
+21:24:15.541 [main] INFO  testcases.TC_001_Verifyaccountregistration - clicked on agree
+21:24:23.400 [main] INFO  testcases.TC_001_Verifyaccountregistration - clicked on continue button
+21:24:23.446 [main] INFO  testcases.TC_001_Verifyaccountregistration - Logs recording ended
+21:24:23.446 [main] INFO  testcases.TC_001_Verifyaccountregistration - TC_001_Verifyaccountregistration completed
+21:24:53.831 [main] INFO  testcases.TC_001_Verifyaccountregistration - TC_001_Verifyaccountregistration started
+21:24:53.836 [main] DEBUG testcases.TC_001_Verifyaccountregistration - Debug logs started
+21:24:53.951 [main] INFO  testcases.TC_001_Verifyaccountregistration - Clicked My account option
+21:24:54.635 [main] INFO  testcases.TC_001_Verifyaccountregistration - Clicked register option
+21:24:54.635 [main] INFO  testcases.TC_001_Verifyaccountregistration - Entering user details for registering user
+21:24:55.498 [main] INFO  testcases.TC_001_Verifyaccountregistration - clicked on yes
+21:24:55.577 [main] INFO  testcases.TC_001_Verifyaccountregistration - clicked on agree
+21:25:03.340 [main] INFO  testcases.TC_001_Verifyaccountregistration - clicked on continue button
+21:25:03.398 [main] INFO  testcases.TC_001_Verifyaccountregistration - Logs recording ended
+21:25:03.398 [main] INFO  testcases.TC_001_Verifyaccountregistration - TC_001_Verifyaccountregistration completed
+21:40:23.608 [main] INFO  testcases.TC_001_Verifyaccountregistration - TC_001_Verifyaccountregistration started
+21:40:23.610 [main] DEBUG testcases.TC_001_Verifyaccountregistration - Debug logs started
+21:40:23.704 [main] INFO  testcases.TC_001_Verifyaccountregistration - Clicked My account option
+21:40:24.387 [main] INFO  testcases.TC_001_Verifyaccountregistration - Clicked register option
+21:40:24.387 [main] INFO  testcases.TC_001_Verifyaccountregistration - Entering user details for registering user
+21:40:25.009 [main] INFO  testcases.TC_001_Verifyaccountregistration - clicked on yes
+21:40:25.088 [main] INFO  testcases.TC_001_Verifyaccountregistration - clicked on agree
+21:40:32.919 [main] INFO  testcases.TC_001_Verifyaccountregistration - clicked on continue button
+21:40:32.995 [main] INFO  testcases.TC_001_Verifyaccountregistration - Logs recording ended
+21:40:32.995 [main] INFO  testcases.TC_001_Verifyaccountregistration - TC_001_Verifyaccountregistration completed
+21:41:10.985 [TestNG-tests-2] INFO  testcases.TC_001_Verifyaccountregistration - TC_001_Verifyaccountregistration started
+21:41:10.993 [TestNG-tests-2] DEBUG testcases.TC_001_Verifyaccountregistration - Debug logs started
+21:41:11.013 [TestNG-tests-1] INFO  testcases.TC_001_Verifyaccountregistration - TC_001_Verifyaccountregistration started
+21:41:11.015 [TestNG-tests-1] DEBUG testcases.TC_001_Verifyaccountregistration - Debug logs started
+21:41:11.131 [TestNG-tests-1] INFO  testcases.TC_001_Verifyaccountregistration - Clicked My account option
+21:41:11.137 [TestNG-tests-2] INFO  testcases.TC_001_Verifyaccountregistration - Clicked My account option
+21:41:11.785 [TestNG-tests-2] INFO  testcases.TC_001_Verifyaccountregistration - Clicked register option
