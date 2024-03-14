@@ -12,13 +12,27 @@ public WebDriver driver;
 		
 	}
 	
+	@FindBy(xpath="//input[@placeholder='Search']") WebElement search;
 	
+	@FindBy(xpath="//button[@class='btn btn-default btn-lg']") WebElement search_btn;
 
 @FindBy(xpath="//span[normalize-space()='My Account']")  WebElement myAccount;
 
 @FindBy(xpath="//a[normalize-space()='Register']") WebElement register;
 
 @FindBy(xpath="//a[normalize-space()='Login']")  WebElement login;
+
+
+public void searchproduct(String searchtext) {
+	
+	search.sendKeys(searchtext);
+}
+
+public void searchbutton() {
+	
+	search_btn.click();
+}
+
 
 public void Myaccount() {
 	myAccount.click();

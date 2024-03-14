@@ -5,8 +5,10 @@
 	  <parameter name="os" value="windows"></parameter>
 	  <parameter name="browser" value="edge"></parameter>
     <classes>
-  <!--<class name="testcases.TC_001_Verifyaccountregistration"/>--> 
+  <!--<class name="testcases.TC_001_Verifyaccountregistration"/>
   <class name="testcases.TC_002_Verifylogin"/> 
+  <class name="testcases.TC_004_Verifysearchproduct"/> -->
+  <class name="testcases.TC_005_AddtocartpageTest"/> 
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

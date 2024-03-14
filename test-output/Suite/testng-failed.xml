@@ -13,18 +13,18 @@
       </run>
     </groups>
     <classes>
-      <class name="testcases.TC_001_Verifyaccountregistration">
+      <class name="testcases.TC_004_Verifysearchproduct">
         <methods>
-          <include name="setup"/>
-          <include name="account_page"/>
-        </methods>
-      </class> <!-- testcases.TC_001_Verifyaccountregistration -->
-      <class name="testcases.TC_002_Verifylogin">
-        <methods>
-          <include name="logintest"/>
+          <include name="testsearch"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testcases.TC_002_Verifylogin -->
+      </class> <!-- testcases.TC_004_Verifysearchproduct -->
+      <class name="testcases.TC_005_AddtocartpageTest">
+        <methods>
+          <include name="addtocarttest"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- testcases.TC_005_AddtocartpageTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
